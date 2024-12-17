@@ -1,7 +1,7 @@
   
 # MILKSHAKE ORDERING SYSTEM (DESKTOP APP USING C#)
 ---
-### ABOUT 
+### ABOUT  
 Hello everyone! I'm PJ, and I'm excited to share my project called Milkshake ordering system, this is a desktop application made in c# windows form.
 
 In this system, user can login as admin and as a customer. This application is just a simple ordering system where customer can buy and total all its item bought.
